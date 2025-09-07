@@ -10,4 +10,7 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline in Py
 
 ## How to Run
 ```bash
+pip install -r requirements.txt
+
+```bash
 python etl0.py
